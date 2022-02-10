@@ -1,0 +1,23 @@
+body{
+    font-family: sans-serif;
+}
+.c1{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    width: 320px;
+    height: 460px;
+    margin:auto;
+}
+.c2{
+    display: none;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    width: 320px;
+    height:600px;
+    margin:auto;
+}
+input::-webkit-inner-spin-button{
+    -webkit-appearance: none;
+}
